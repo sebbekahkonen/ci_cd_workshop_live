@@ -21,7 +21,7 @@ def is_prime(n):
 
 
 def cubic(a):
-    return a * a * a
+    return a * a * a * a
 
 
 def say_hello(name):
